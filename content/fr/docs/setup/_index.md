@@ -35,7 +35,7 @@ Vous devriez choisir une solution locale si vous souhaitez :
 * Essayer ou commencer à apprendre Kubernetes
 * Développer et réaliser des tests sur des clusters locaux
 
-Choisissez une [solution locale] (/fr/docs/setup/pick-right-solution/#solutions-locales).
+Choisissez une [solution locale](/fr/docs/setup/pick-right-solution/#solutions-locales).
 
 ## Solutions hébergées
 
