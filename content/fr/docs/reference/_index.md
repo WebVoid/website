@@ -16,13 +16,12 @@ Cette section de la documentation de Kubernetes contient les informations de ré
 
 ## Documents de Référence de l'API
 
-* [Vue d'ensemble de l'API de Kubernetes](/docs/reference/using-api/api-overview/)
-* Documentation de référence de l'API de Kubernetes par version:
-  * [1.14](/docs/reference/generated/kubernetes-api/v1.14/)
-  * [1.13](/docs/reference/generated/kubernetes-api/v1.13/)
-  * [1.12](/docs/reference/generated/kubernetes-api/v1.12/)
-  * [1.11](/docs/reference/generated/kubernetes-api/v1.11/)
-  * [1.10](/docs/reference/generated/kubernetes-api/v1.10/)
+* [Vue d'ensemble de l'API de Kubernetes](/docs/reference/using-api/)
+* Documentation de référence de l'API des anciennes versions de Kubernetes:
+  * [1.19](https://v1-19.docs.kubernetes.io/fr/docs/reference/)
+  * [1.18](https://v1-18.docs.kubernetes.io/fr/docs/reference/)
+  * [1.17](https://v1-17.docs.kubernetes.io/fr/docs/reference/)
+  * [1.16](https://v1-16.docs.kubernetes.io/fr/docs/reference/)
 
 ## Bibliothèques client de l'API
 
